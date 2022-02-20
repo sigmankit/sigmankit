@@ -1,5 +1,4 @@
 - 👋 Hi, I’m  Ankit Kumar
-- 👀 I’m interested in create and develop 
 - 🌱 I’m currently learning python 
 
 <!---
