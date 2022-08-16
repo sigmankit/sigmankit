@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Ankit Kumar
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java
 
 <!---
 sigmankit/sigmankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
